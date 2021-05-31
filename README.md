@@ -28,4 +28,4 @@ School Summary
 
 Summary
 
-The changes in the district analysis were in students passing math, student passing reading, average math scores, and average reading scores for Thomas High School 9th graders. As we added Nan’s there was less data to calculate for Thomas High School 9th graders which changed the results a lot.
+The changes in the district analysis were in students passing math, student passing reading, average math scores, and average reading scores for Thomas High School 9th graders. As we added Nan’s there was less data to calculate for Thomas High School 9th graders which changed the results a lot. There was less data which caused the numbers to go down significantly.
